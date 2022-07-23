@@ -6,4 +6,4 @@ You can download vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5 file from lin
 
 And result of our network is:
 
-![alt text](https://github.com/aliaa80/artistic-picture/blob/main/result.png?raw=true)
+![alt text](https://github.com/aliaa80/artistic-picture/blob/main/result.jpg?raw=true)
